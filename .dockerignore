@@ -1,0 +1,11 @@
+*
+!Dockerfile
+!nginx.conf
+!index.html
+!style.css
+!main.js
+!constellation.css
+!constellation.js
+!favicon.svg
+!assets/
+!assets/**
